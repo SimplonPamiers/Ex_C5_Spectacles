@@ -1,12 +1,12 @@
 ### Objectifs
-Créer des scripts afin d’accéder aux données de la base de données.
+Créer des scripts permettant d'afficher des données issues d'une base de données sur une page internet.
 
 ### Temporalité
 1j
 
 ### Consignes
-A partir des histoires utilisateur, afficher les informations demandées en créant les scripts d’accès à la base de données.
-La base de données vous est fournie, exécutez le script colyseum.sql. Vous êtes libres du rendu visuel de votre application.
+A partir des histoires utilisateur, afficher les informations demandées, sur une page internet, en créant les scripts d’accès à la base de données.
+La base de données Mysql vous est fournie. Exécutez le script colyseum.sql pour créer la base de données et son contenu. Vous êtes libres du rendu visuel de votre application.
 
 ### Histoires utilisateur
 En tant qu’utilisateur je dois pouvoir :
