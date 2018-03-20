@@ -27,3 +27,6 @@ C5 - Développer des composants d’accès aux données.
 
 ### Ressources fournies
 Script SQL de la base de données.
+
+### Livrables
+Le lien Github de votre site internet
