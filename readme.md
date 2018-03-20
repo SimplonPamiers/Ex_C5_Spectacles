@@ -12,7 +12,7 @@ La base de données Mysql vous est fournie. Exécutez le script colyseum.sql pou
 En tant qu’utilisateur je dois pouvoir :
 - Afficher tous les clients.
 - Afficher tous les types de spectacles possibles.
-- Afficher les 20 premiers clients.
+- Afficher les 20 premiers clients selon leur identifiant.
 - N’afficher que les clients possédant une carte de fidélité.
 - Afficher uniquement le nom et le prénom de tous les clients dont le nom commence par la lettre "M". Les afficher comme ceci : Nom : Nom du client Prénom : Prénom du client (Trier les noms par ordre alphabétique.)
 - Afficher le titre de tous les spectacles ainsi que l'artiste, la date et l'heure. Trier les titres par ordre alphabétique. Afficher les résultat comme ceci : Spectacle par artiste, le date à heure.
